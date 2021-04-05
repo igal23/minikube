@@ -1,0 +1,2 @@
+docker build -t igal2323/spa-demo:v1 .
+docker push igal2323/spa-demo:v1
